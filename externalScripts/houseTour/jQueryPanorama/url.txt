@@ -1,0 +1,2 @@
+https://github.com/liviuholhos/panorama360
+http://minimalisticstudio.com/journal/360-degree-panoramic-view-plugin-for-jquery
