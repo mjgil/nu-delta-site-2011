@@ -1,6 +1,6 @@
 $(document).ready(function(){
 			$.ajax({
-				url: "https://cdn.rawgit.com/mjgil/nu-delta-site-2011/master/twitter/json.php",
+				url: "https://cdn.rawgit.com/mjgil/nu-delta-site-2011/release/twitter/json.php",
 				success: function(data) {
 					var tweetArray = jQuery.parseJSON(data);
 					if ( tweetArray ) {
@@ -29,7 +29,7 @@ $(document).ready(function(){
 				
 			function pollTwitter() {
 					$.ajax({
-					url: "https://cdn.rawgit.com/mjgil/nu-delta-site-2011/master/twitter/json.php"
+					url: "https://cdn.rawgit.com/mjgil/nu-delta-site-2011/release/twitter/json.php"
 					});
 				}
 });
