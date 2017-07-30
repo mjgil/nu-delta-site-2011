@@ -141,7 +141,7 @@
 </div>
 </div>
 <!-- puts the navigation bar in a javascript file for flexibility -->
-<script src="js/footer.js"></script>
+<script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/footer.js"></script>
 	
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
 	<!--[if lt IE 7 ]>
@@ -149,9 +149,9 @@
 	<script> DD_belatedPNG.fix('img, .png_bg');</script>
 	<![endif]-->
 	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
-    <script src="js/googleAnalytics.js"></script>
-    <script src="js/mainScript.js"></script>
-    <script src="js/libs/respond.min.js"></script>
+    <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/googleAnalytics.js"></script>
+    <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/mainScript.js"></script>
+    <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/libs/respond.min.js"></script>
     <script src="contactUs/js/script.js"></script>
     <script src="contactUs/js/plugins.js"></script>
 </body>
