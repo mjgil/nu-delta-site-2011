@@ -29,7 +29,7 @@
 include_once "library/OAuthStore.php";
 include_once "library/OAuthRequester.php";
 
-// register at http://twitter.com/oauth_clients and fill these two 
+// register at https://twitter.com/oauth_clients and fill these two 
 define("TWITTER_CONSUMER_KEY", "4KFxJ0hjbocbdooNKXXAw");
 define("TWITTER_CONSUMER_SECRET", "T1X7VtYnFgaY488APczfo9emI9HVHjDGHSayOT7Y");
 

@@ -16,7 +16,7 @@
 	
 	<link rel="shortcut icon" href="/favicon.ico">
 	<link rel="stylesheet" href="css/stylev5.css">
-    <link href="http://fonts.googleapis.com/css?family=Lora:regular,italic,bold,bolditalic&v1" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lora:regular,italic,bold,bolditalic&v1" rel="stylesheet" type="text/css">
 
 	<!--<script src="js/libs/modernizr-1.7.min.js"></script>-->
 </head>
@@ -115,7 +115,7 @@
                <section class="rightPanelSection">
                     <header class="rightPanelTitle">Follow Us!</header>
                     <section id="twitterPane">
-                    <div  class="twitterButton"><a href="http://twitter.com/NuDelta" class="twitter-follow-button" data-show-count="false" data-align="left" data-text-color="#688888" data-link-color="#688888">Follow @NuDelta</a></div>
+                    <div  class="twitterButton"><a href="https://twitter.com/NuDelta" class="twitter-follow-button" data-show-count="false" data-align="left" data-text-color="#688888" data-link-color="#688888">Follow @NuDelta</a></div>
 					</section>
                 </section>
             
@@ -148,7 +148,7 @@
 	<script src="js/libs/dd_belatedpng.js"></script>
 	<script> DD_belatedPNG.fix('img, .png_bg');</script>
 	<![endif]-->
-	<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+	<script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
     <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/googleAnalytics.js"></script>
     <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/mainScript.js"></script>
     <script src="https://raw.githubusercontent.com/mjgil/nu-delta-site-2011/master/js/libs/respond.min.js"></script>

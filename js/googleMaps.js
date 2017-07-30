@@ -159,7 +159,7 @@ Nu Delta - 42.351474222525155, -71.08780793845654
 	Kojo Welbeck
 	Sebastian Leon - 42.3617530,-71.0914190
 
-http://maps.google.com/maps/geo?q=Callinstra%C3%9Fe+38,+30167+Hannover,+Germany&output=csv&sensor=false
+https://maps.google.com/maps/geo?q=Callinstra%C3%9Fe+38,+30167+Hannover,+Germany&output=csv&sensor=false
 
 
 */
